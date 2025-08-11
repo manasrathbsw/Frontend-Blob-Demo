@@ -7,7 +7,7 @@ import JSZip from "jszip";
 import { saveAs } from "file-saver";
 
 // 🔐 Your Azure Storage configuration
-const sasToken = "sv=2024-11-04&ss=bfqt&srt=co&sp=rwdlacupiytfx&se=2025-08-08T18:38:06Z&st=2025-07-28T10:23:06Z&spr=https&sig=cv2XKdqGzK%2FfCnV20E8dAqEqJlkQiqH3vYLKdevq5oA%3D";
+const sasToken = "sv=2024-11-04&ss=bfqt&srt=co&sp=rwdlacupiytfx&se=2025-12-31T14:17:31Z&st=2025-08-11T06:02:31Z&spr=https&sig=mC6i%2FAEY4gtqQsb48A12r0mfjsupa6WyJaOtAsBIv9c%3D";
 const containerName = "frontend-blob";
 const storageAccountName = "klarifaibbsrblob";
 
